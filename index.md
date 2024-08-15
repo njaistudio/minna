@@ -7,7 +7,7 @@
 1. Confirm account deletion
 1. Complete
 
-
+![Screenshot_1723685291](https://github.com/user-attachments/assets/7f2b5031-0486-4a24-af2f-926ed2e1e3bb)
 
 
 ### Support or Contact
